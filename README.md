@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rmcast5
-- 👀 I’m interested in ...Gaming Development 
+- 👀 I’m interested in ...Cloud and Generative AI development 
 - 🌱 I’m currently learning ... Pen-testing and Cyber Security.
 - ⚡ Fun fact: ... My leg has titanium in it, which makes me half cyborg.
 
